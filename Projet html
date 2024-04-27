@@ -18,10 +18,9 @@
             <a href="https://www.apple.com/sn/">Apple</a>
             <a href="https://www.samsung.com/africa_fr/">Samsung</a>
             <h1>à propos</h1>
-            <h2>la section</h2>
-            <h3>travail</h3>
-            <h4>la section</h4>
-            <h5>CV</h5>
+            <h2>travail</h2>
+            <h3>CV</h3>
+            <h4>contact</h4>
         </section>
         <footer>
             <div class="contenu-footer">
