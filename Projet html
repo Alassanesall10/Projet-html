@@ -7,7 +7,7 @@
     </head>
     <body>
         <div class="header">
-        <nav>
+        <nav class="navbar">
             <ul class="menu">
             <a href="#">Accueil</a>
             <a href="#">a propos</a>
@@ -29,7 +29,10 @@
 
     <div>
         <a href="https://www.apple.com/sn/">Apple</a>
-            <a href="https://www.samsung.com/africa_fr/">Samsung</a>
+    </div>
+
+    <div>
+        <a href="https://www.samsung.com/africa_fr/">Samsung</a>
     </div>
 
     <div>
