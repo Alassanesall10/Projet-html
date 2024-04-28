@@ -2,30 +2,42 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Mon Menu</title>
-        <link rel="stylesheet" href="menu1.css">
+        <title>MonProjetGMcode</title>
+        <link rel="stylesheet" href="Style/styles.css">
     </head>
     <body>
+        <div class="header">
         <nav>
-            <a href="">Accueil</a>
-            <a href="">a propos</a>
-            <a href="">travail</a>
-            <a href="">CV</a>
-            <a href="">contact</a>
+            <ul class="menu">
+            <a href="#">Accueil</a>
+            <a href="#">a propos</a>
+            <a href="#">travail</a>
+            <a href="#">CV</a>
+            <a href="#">contact</a>
+        </ul>
         </nav>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4Redgb4G4bQ?si=p9YqTrC_JJq0L9Ku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        
+        <div>
         <section>
-            <a href="https://www.apple.com/sn/">Apple</a>
-            <a href="https://www.samsung.com/africa_fr/">Samsung</a>
             <h1>à propos</h1>
             <h2>travail</h2>
             <h3>CV</h3>
-            <h4>contact</h4>
+            <h4>Contact</h4>
         </section>
-        <footer>
-            <div class="contenu-footer">
+    </div>
 
-                <div class="bloc footer-service">
+    <div>
+        <a href="https://www.apple.com/sn/">Apple</a>
+            <a href="https://www.samsung.com/africa_fr/">Samsung</a>
+    </div>
+
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4Redgb4G4bQ?si=p9YqTrC_JJq0L9Ku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>    
+        
+        <section>
+                <div>
                     <h3>Nos Service</h3>
                     <ul class="liste-service">
                         <li><a href="#">Achat</a></li>
@@ -33,7 +45,9 @@
                         <li><a href="#">Tester</a></li>
                         <li><a href="#">Contactez-moi</a></li>
                     </ul>
-                </div class="bloc footer-service">
+                </div>
+                
+                <div>
                     <h3>Conditions</h3>
                     <ul class="liste-service">
                         <li><a href="#">Payant</a></li>
@@ -41,6 +55,8 @@
                         <li><a href="#">Responsabilités</a></li>
                         <li><a href="#">Règlement des litiges</a></li>
                     </ul>
+                </div>
+
             </div>
         </footer>
     </body>
